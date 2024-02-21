@@ -48,13 +48,13 @@ body {
 }
 
 .imagebox {
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(255, 255, 255);
     min-height: 150px;
     padding: 10px;
     display: flex;
     align-items: flex-start;
     border-radius: 10px;
-    box-shadow: 0 0px 8px 0px rgba(15, 15, 15, 0.10);
+    box-shadow: 0 0px 6px 0px rgba(122, 122, 122, 0.12);
     background-blend-mode: overlay;
     flex-direction: column;
     
